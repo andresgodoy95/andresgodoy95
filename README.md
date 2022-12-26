@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻‍:man_technologist:
 ---
 ### I´m Andrés, a Data Analyst from CHILE :cl: !
 ---
