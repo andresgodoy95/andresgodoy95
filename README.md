@@ -19,7 +19,7 @@
 ### :clubs: Currently
 * Brushing up on data cleaning and wrangling skills using Python
 * Formalizing Big Data and Machine Learning skills at Pontificia Universidad Católica de Chile (PUC)
-* Developing a portfolio that 
+* Developing a portfolio that shows my experience
 
 ### :envelope_with_arrow: Contact
 Feel free to reach out to me through my [**LinkedIn**](https://www.linkedin.com/in/andr%C3%A9s-godoy-araya/) if you have any questions or would like to collaborate on a project. I'm always looking for new opportunities to learn and grow as a data analyst.
