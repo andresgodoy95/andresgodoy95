@@ -8,7 +8,7 @@
 * Looking forward to become a Data Scientist
 
 ### :books: Project Portfolio
-* For my portfolio guide, click [**HERE**](https://github.com/andresgodoy95/Portfolio-guide)
+* For my portfolio guide, click [**HERE**](https://github.com/andresgodoy95/Portfolio-guide/blob/main/README.md)
 
 ### :bulb: Core Competencies :bulb:
 * Proficient in Python and SQL for data analysis and manipulation
