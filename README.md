@@ -8,7 +8,7 @@
 * Looking forward to become a Data Scientist
 
 ### :books: Project Portfolio
-* For my portfolio guide, click HERE
+* For my portfolio guide, click [**HERE**](https://github.com/andresgodoy95/Portfolio-guide)
 
 ### :bulb: Core Competencies :bulb:
 * Proficient in Python and SQL for data analysis and manipulation
@@ -22,7 +22,7 @@
 * Developing a portfolio that 
 
 ### :envelope_with_arrow: Contact
-Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-godoy-araya/) if you have any questions or would like to collaborate on a project. I'm always looking for new opportunities to learn and grow as a data analyst.
+Feel free to reach out to me through my [**LinkedIn**](https://www.linkedin.com/in/andr%C3%A9s-godoy-araya/) if you have any questions or would like to collaborate on a project. I'm always looking for new opportunities to learn and grow as a data analyst.
 
 
 <!--
